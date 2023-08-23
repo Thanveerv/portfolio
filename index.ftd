@@ -14,15 +14,13 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html#about
 cta-text-3-url: index.html
 
--- hero.hero-1: I'm John Doe
+-- hero.hero-1: I'm Mohammed Thanveer V
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets.ape-1.jpg
-
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+As a software developer, your proficiency in coding and problem-solving is crucial. You design, create, and maintain software applications that power various aspects of our digital world. You work with programming languages, frameworks, and tools to develop solutions that meet specific user needs or business objectives. Collaboration and communication skills are vital as you often work in teams to brainstorm ideas, share knowledge, and tackle complex challenges. Staying updated with the latest industry trends and technologies helps you remain effective and innovative in your role. Whether you're building mobile apps, web platforms, or desktop software, your work contributes to shaping the way we interact with technology in our daily lives.
 
 
 -- end: lib.page

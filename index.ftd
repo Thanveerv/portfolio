@@ -1,6 +1,6 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 as hero
--- import: <user_name>.github.io/<repo_name>/lib
+-- import: thanveerv.github.io/portfolio/lib
 
 -- lib.page:
 
@@ -14,15 +14,13 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html#about
 cta-text-3-url: index.html
 
--- hero.hero-1: I'm John Doe
+-- hero.hero-1: I'm Mohammed Thanveer V
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets.ape-1.jpg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
-
+As a software developer, I thrive on coding and creative problem-solving. My days are filled with designing, crafting, and maintaining software applications that drive our digital world forward. Armed with various programming languages, frameworks, and tools, I create tailored solutions that address user needs and business goals. Collaboration and communication are second nature to me, as teamwork and sharing ideas are essential in this field. I'm dedicated to staying on top of the latest industry trends, ensuring that I remain effective and innovative in my role. Whether I'm working on mobile apps, web platforms, or desktop software, my efforts contribute to shaping how we engage with technology in our daily lives.
 
 -- end: lib.page
